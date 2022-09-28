@@ -11,3 +11,5 @@ Just open the site, delete the placeholders and start typing in the top panel. A
 You’ll probably want to keep a Markdown syntax website open as you read through this guide. 
 That way you can try the syntax as you learn about it.
 >>>>>>> 
+
+[Lets go!](https://mdpreviewer.herokuapp.com)
