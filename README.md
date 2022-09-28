@@ -1,5 +1,5 @@
-# FCC.Markdown-Previewer
-Markdown Previewer for Free Code Camp 👨🏻‍💻👨🏻‍💻
+# FCC.Markdown-Previewer 👨🏻‍💻👨🏻‍💻
+Markdown Previewer for Free Code Camp 💻
 
 ### What is Markdown?
 
